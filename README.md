@@ -14,11 +14,11 @@ En cuanto a los actores, encontré tres actores, el administrador entrenador y f
 
 ### Diagrama de Casos de Uso
 
-<img src="img/diagrama-clases.png">
+<img src="img/digrama-casos-usos.png">
 
 ### Diagrama de Clases
 
-<img src="img/diagrama-casos-usos.png">
+<img src="img/diagrama-clases.png">
 
 ## Instalación y Ejecución
 
