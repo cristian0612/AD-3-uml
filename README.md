@@ -18,7 +18,7 @@ En cuanto a los actores, encontré tres actores, el administrador entrenador y f
 
 ### Diagrama de Clases
 
-<img src="img/digrama-casos-usos.png">
+<img src="img/diagrama-casos-usos.png">
 
 ## Instalación y Ejecución
 
