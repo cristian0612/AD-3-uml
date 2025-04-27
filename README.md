@@ -22,7 +22,7 @@ En cuanto a los actores, encontré tres actores, el administrador entrenador y f
 
 ## Instalación y Ejecución
 
-1.Clonar el repositorio: git clone git@github.com:cristian0612/AD-3-Cristian.git
+1.Clonar el repositorio: git clone git@github.com:cristian0612/AD-3-uml.git
 
 ## Justificación del Diseño
 
